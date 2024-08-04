@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+node_modules/
+.env
+.DS_Store
+.data.csv.swp
+.run.sh.swp
+app.py.swp
+models/
+controllers/
+routes.py.swp
+README.md.swp
